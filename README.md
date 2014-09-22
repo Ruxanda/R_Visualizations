@@ -2,7 +2,7 @@
 
    * graphs, charts, dotplots, scatterplots, maps
    * barcharts, boxcharts, coefficient plots
-   * plotting statistics: Hartingtan's Rule, Gap Statistic
+   * plotting statistics: Hartigan's Rule, Gap Statistic
    * small multiple
 
 ## *R Packages:*
