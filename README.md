@@ -2,7 +2,14 @@
 
    * histograms, graphs, charts, dotplots, scatterplots, maps
    * barcharts, boxcharts, coefficient plots
-   * plotting statistics: Hartigan's Rule, Gap Statistic, Cross Validation for K-Means and test predictions, Elastic Net (Plot Minimum Alpha and Parsimonious Alpha)
+   * correlation plots
+   * plotting statistics: 
+        * Hartigan's Rule
+        * Gap Statistic
+        * Cross Validation for K-Means and test predictions
+        * Elastic Net (Plot Minimum Alpha and Parsimonious Alpha)
+        * Lambdas from Bootstrap
+        * Random Effects with confidence intervals from Multilevel Hierarchical Models
    * small multiple
    * infograph (created with R and Inkscape)
 
