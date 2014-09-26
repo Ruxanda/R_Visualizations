@@ -3,7 +3,7 @@
    * histograms, graphs, charts, dotplots, scatterplots, maps
    * barcharts, boxcharts, coefficient plots
    * correlation plots
-   * plotting statistics: 
+   * Plotting statistics: 
         * Hartigan's Rule
         * Gap Statistic
         * Cross Validation for K-Means and test predictions
