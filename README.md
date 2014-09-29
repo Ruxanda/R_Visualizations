@@ -1,6 +1,6 @@
 # **R Visualizations**
 
-   * histograms, graphs, charts, dotplots, scatterplots, maps
+   * Histograms, Graphs, Charts, Dotplots, Scatterplots, maps
    * barcharts, boxcharts, coefficient plots
    * Correlation Plots
    * Plotting Statistics: 
@@ -10,10 +10,11 @@
       * Elastic Net (Plot Minimum Alpha and Parsimonious Alpha)
       * Lambdas from Bootstrap
       * Random Effects with confidence intervals from Multilevel Hierarchical Models
-   * Features
+   * Features:
       * Small Multiple
       * Color Coded
       * Symbols
+      * Fitting LM lines
    * Infograph (created with R and Inkscape)
 
 ## *R Packages:*
