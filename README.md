@@ -1,7 +1,8 @@
 # **R Visualizations**
 
-   * Histograms, Graphs, Charts, Dotplots, Scatterplots, maps
-   * barcharts, boxcharts, coefficient plots
+   * Histograms, Graphs, Charts, Dotplots, Scatterplots
+   * Barcharts, Boxcharts
+   * Coefficient Plots
    * Correlation Plots
    * Plotting Statistics: 
       * Hartigan's Rule
@@ -16,6 +17,7 @@
       * Symbols
       * Fitting LM lines
    * Infograph (created with R and Inkscape)
+   * Maps
 
 ## *R Packages:*
 
