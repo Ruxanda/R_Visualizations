@@ -6,6 +6,7 @@
    * Boxcharts
    * Linecharts
    * Density Plots
+   * Kernel Density Plots
    * Coefficient Plots
    * Correlation Plots
    * Plotting Statistics: 
