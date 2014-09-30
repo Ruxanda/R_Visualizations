@@ -1,7 +1,10 @@
 # **R Visualizations**
 
-   * Histograms, Graphs, Charts, Dotplots, Scatterplots
-   * Barcharts, Boxcharts
+   * Histograms
+   * Scatterplots
+   * Barcharts
+   * Boxcharts
+   * Linecharts
    * Coefficient Plots
    * Correlation Plots
    * Plotting Statistics: 
