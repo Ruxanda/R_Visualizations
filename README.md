@@ -3,8 +3,8 @@
    * Histograms
    * Scatterplots
    * Barcharts
-   * Boxcharts
-   * Linecharts
+   * Box Plots
+   * Line Plots
    * Density Plots
    * Kernel Density Plots
    * Coefficient Plots
