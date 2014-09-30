@@ -5,6 +5,7 @@
    * Barcharts
    * Boxcharts
    * Linecharts
+   * Density Plots
    * Coefficient Plots
    * Correlation Plots
    * Plotting Statistics: 
