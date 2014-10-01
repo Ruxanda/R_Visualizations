@@ -21,6 +21,7 @@
       * Color Coded
       * Symbols
       * Fitting LM lines
+      * Smoothing 
    * Infograph (created with R and Inkscape)
    * Maps
 
