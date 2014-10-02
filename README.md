@@ -16,7 +16,7 @@
       * Cross Validation for K-Means and test predictions
       * Elastic Net (Plot Minimum Alpha and Parsimonious Alpha)
       * Lambdas from Bootstrap
-      * Random Effects with confidence intervals from Multilevel Hierarchical Models
+      * Random Effects with Confidence Intervals - Multilevel Hierarchical Models
       * Estimated Ideal Points - Ideal Point Modeling 
    * Features:
       * Small Multiple
