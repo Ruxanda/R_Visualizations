@@ -4,7 +4,7 @@
    * Scatterplots
    * Barcharts
    * Box Plots
-   * Line Plots
+   * Linechart
    * Density Plots
    * Kernel Density Plots
    * Coefficient Plots
