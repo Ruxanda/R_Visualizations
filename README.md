@@ -12,6 +12,7 @@
    * Plotting Statistics: 
       * Hartigan's Rule
       * Gap Statistic
+      * Decision Trees
       * Cross Validation for K-Means and test predictions
       * Elastic Net (Plot Minimum Alpha and Parsimonious Alpha)
       * Lambdas from Bootstrap
