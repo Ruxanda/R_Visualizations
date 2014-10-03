@@ -1,10 +1,10 @@
 # **R Visualizations**
 
    * Histograms
-   * Scatterplots
-   * Barcharts
+   * Scatter Plots
+   * Bar Charts
    * Box Plots
-   * Linechart
+   * Line Chart
    * Density Plots
    * Kernel Density Plots
    * Coefficient Plots
