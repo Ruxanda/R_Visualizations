@@ -13,9 +13,9 @@
       * Hartigan's Rule
       * Gap Statistic
       * Decision Trees
-      * Bootstrap Replications with different sample sizes
       * Cross Validation for K-Means and test predictions
       * Elastic Net (Plot Minimum Alpha and Parsimonious Alpha)
+      * Bootstrap Replications with different sample sizes
       * Lambdas from Bootstrap
       * Random Effects with Confidence Intervals - Multilevel Hierarchical Models
       * Estimated Ideal Points - Ideal Point Modeling 
