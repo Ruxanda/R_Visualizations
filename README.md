@@ -23,6 +23,7 @@
       * Small Multiple
       * Color Coded
       * Symbols
+      * Confidence Intervals
       * Fitting LM lines
       * Smoothing 
    * Infograph (created with R and Inkscape)
