@@ -4,7 +4,7 @@
    * Scatter Plots
    * Bar Charts
    * Box Plots
-   * Line Chart
+   * Line Charts
    * Density Plots
    * Kernel Density Plots
    * Coefficient Plots
