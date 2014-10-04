@@ -21,7 +21,7 @@
       * Estimated Ideal Points - Ideal Point Modeling 
    * Features:
       * Small Multiple
-      * Color Coded
+      * Color Coded by Factor Levels
       * Symbols
       * Confidence Intervals
       * Fitting LM lines
