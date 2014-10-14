@@ -24,8 +24,8 @@
       * Color Coded by Factor Levels
       * Symbols
       * Confidence Intervals
-      * Fitting LM lines
-      * Fitting Logit Models lines
+      * Fitting Linear Model lines
+      * Fitting Logit Model lines
       * Smoothing 
    * Infograph (created with R and Inkscape)
    * Maps
