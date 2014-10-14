@@ -25,6 +25,7 @@
       * Symbols
       * Confidence Intervals
       * Fitting LM lines
+      * Fitting Logit Models lines
       * Smoothing 
    * Infograph (created with R and Inkscape)
    * Maps
