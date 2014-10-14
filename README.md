@@ -26,6 +26,7 @@
       * Confidence Intervals
       * Fitting Linear Model lines
       * Fitting Logit Model lines
+          * Interaction Terms
       * Before/After Missing Data Imputation
       * Smoothing 
    * Infograph (created with R and Inkscape)
