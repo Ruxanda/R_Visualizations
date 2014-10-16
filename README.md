@@ -29,6 +29,7 @@
           * Interaction Terms
       * Before/After Missing Data Imputation
       * Smoothing 
+      * Lowess curves
    * Infograph (created with R and Inkscape)
    * Maps
 
