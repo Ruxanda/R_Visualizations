@@ -29,6 +29,7 @@
           * Interaction Terms
       * Fitting Quadratic Model curves
       * Regression Coefficients
+          * Confidence Intervals
       * Before/After Missing Data Imputation
       * Smoothing 
       * Lowess curves
