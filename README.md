@@ -30,6 +30,8 @@
       * Before/After Missing Data Imputation
       * Smoothing 
       * Lowess curves
+          * Adjusted
+          * Unadjusted
    * Infograph (created with R and Inkscape)
    * Maps
 
