@@ -26,8 +26,9 @@
       * Confidence Intervals
       * Fitting Linear Model lines
       * Fitting Logit Model lines
-      * Fitting Quadratic Model curves
           * Interaction Terms
+      * Fitting Quadratic Model curves
+      * Regression Coefficients
       * Before/After Missing Data Imputation
       * Smoothing 
       * Lowess curves
